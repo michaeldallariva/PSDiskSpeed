@@ -63,7 +63,7 @@ A PowerShell 7 utility for testing disk read/write speeds with a Windows Forms G
 ## Author
 
 **Michael DALLA RIVA**  
-[www.yourwebsite.com](https://lafrenchaieti.com/)
+[https://lafrenchaieti.com](https://lafrenchaieti.com/)
 
 ## License
 
